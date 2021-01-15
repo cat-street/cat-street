@@ -4,9 +4,9 @@
 
 I'm a JavaScript developer from Moscow, Russia.
 
-Photojournalist by education (no STEM background), previously I was working as a system administrator for many years, and started my journey to a web developer career in spring of 2020, by actively self-studying, applying to and finishing *Yandex Practicum* program, and consistently continuing to learn.
+Photojournalist by education, previously I was working as a system administrator, but in 2020 I've found my true inspiration in JavaScript. Since then, I've graduated from *Yandex Practicum* Web Developer program, completed several online courses, and consistently continuing to learn and being active part of the developers' community.
 
-I'm proficient in **MERN** stack and **vanilla JS**, working with frontend and backend, writing clean code and following principles. Also interested in UX/UI and web design. Currently learning advanced React.
+I'm proficient in **MERN** stack and **vanilla JS**, I know frontend and backend, I'm writing clean code and following code principles. My skills include JavaScript (ES6+), React (classes and hooks), Node.js/Express.js, MongoDB, HTML/CSS (responsive and semantic); I'm very good with Git/GitHub, BEM, Figma, Photoshop, have experience with Webpack, SASS, command line (Bash). I'm also interested in UX/UI and web design.
 
 Cat lover and photographer in my free time. My interests are also include Japan, architecture, videogames, animation, classic and modern art.
 
