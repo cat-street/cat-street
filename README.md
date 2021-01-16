@@ -9,6 +9,8 @@ Photojournalist by education, previously I was working as a system administrator
 Cat lover and photographer in my free time. My interests are also include:  
 🏯 Japan, 🏛 architecture, 🎮 videogames, 👽 animation, 🖼 classic and modern art.
 
+(Photo by <a href="https://unsplash.com/@lukepeters?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Luke Peters</a> on <a href="https://unsplash.com/s/photos/monitors?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)
+
 **💠 [My Portfolio](https://catlogic.ru/) 💠 [Twitter](https://twitter.com/cat__logic) 💠 [LinkedIn](https://www.linkedin.com/in/cat-logic/)**
 
 ---
