@@ -6,7 +6,7 @@ I'm a JavaScript developer from Moscow, Russia.
 
 Photojournalist by education, previously I was working as a system administrator, but in 2020 I've found my true inspiration in JavaScript.
 
-Cat lover and photographer in my free time. My interests are also include:
+Cat lover and photographer in my free time. My interests are also include:  
 🏯 Japan, 🏛 architecture, 🎮 videogames, 👽 animation, 🖼 classic and modern art.
 
 **💠 [My Portfolio](https://catlogic.ru/) 💠 [Twitter](https://twitter.com/cat__logic) 💠 [LinkedIn](https://www.linkedin.com/in/cat-logic/)**
