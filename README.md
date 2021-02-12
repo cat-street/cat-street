@@ -2,7 +2,7 @@
 
 ## Hi, I'm Andrey!
 
-I'm a JavaScript developer from Moscow, Russia.
+I'm a JavaScript/React frontend developer from Moscow, Russia. Currently available for hire!
 
 Photojournalist by education, previously I was working as a system administrator, but in 2020 I've found my true inspiration in JavaScript.
 
