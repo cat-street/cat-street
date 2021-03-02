@@ -2,9 +2,9 @@
 
 ## Hi, I'm Andrey!
 
-I'm a React frontend developer from Moscow, Russia. Currently available for hire!
+I'm a React frontend developer from Moscow, Russia.
 
-Have 1 year of a React/JavaScript/HTML/CSS experience.  
+1 year of a React/JavaScript/HTML/CSS experience.  
 Using TypeScript, Redux, unit testing (Jest), Node/Express backend, MongoDB, Git, BEM, SASS, Webpack. 
 
 Cat lover and photographer in my free time. My interests are also include:  
