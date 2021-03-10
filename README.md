@@ -2,10 +2,8 @@
 
 ## Hi, I'm Andrey!
 
-I'm a React frontend developer from Moscow, Russia.
-
-1 year of a React/JavaScript/HTML/CSS experience.  
-Using TypeScript, Redux, unit testing (Jest), Node/Express backend, MongoDB, Git, BEM, SASS, Webpack. 
+I'm a web developer from Moscow, Russia.
+Focused mostly of frontend (React/TypeScript), also using vanilla JavaScript, Redux, unit testing (Jest), Node/Express backend, MongoDB, Git, BEM, SASS, Webpack. 
 
 Cat lover and photographer in my free time. My interests are also include:  
 🏯 Japan, 🏛 architecture, 🎮 videogames, 👽 animation, 🖼 classic and modern art.
