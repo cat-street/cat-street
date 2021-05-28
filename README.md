@@ -3,7 +3,7 @@
 ## Hi, I'm Andrey!
 
 I'm a web developer from Moscow, Russia.    
-Focused mostly of frontend (React/TypeScript), also using vanilla JavaScript, Next.js, Redux, Node/Express backend, MongoDB, Git, BEM, SASS, Webpack. 
+Focused mostly of frontend (React/TypeScript), also using vanilla JavaScript, Next.js, Redux, Node/Express, MongoDB, Git, BEM, SASS, Webpack.
 
 Cat lover and photographer in my free time. My interests are also include:  
 🏯 Japan, 🎮 videogames, 👽 animation, 🖼 classic and modern art, 🏛 architecture
