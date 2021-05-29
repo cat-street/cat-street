@@ -13,4 +13,4 @@ Cat lover and photographer in my free time. My interests are also include:
 💠 [**My Portfolio**](https://catlogic.ru/) 💠 [**Twitter**](https://twitter.com/cat__logic) 💠 [**LinkedIn**](https://www.linkedin.com/in/catlogic/)
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=cat-street&show_icons=true&hide=rank&count_private=true&theme=vue)
+![Github stats](https://github-readme-stats.vercel.app/api?username=cat-street&show_icons=true&hide_rank&count_private=true&theme=vue)
