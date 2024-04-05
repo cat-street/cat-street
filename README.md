@@ -3,7 +3,7 @@
 ## Hi, I'm Andrey!
 
 I'm a web developer from Moscow, Russia.    
-Focused of frontend (React/TypeScript), also using Redux/Saga, Apollo/GraphQL, React Query, MobX, Next.js, BEM, SASS, Webpack.
+Focused of frontend (React/TypeScript/JavaScript), also using Apollo/GraphQL, React Query, Material UI, SASS, Webpack.
 
 **This repository is inactive since 2021, I'm currently working with GitLab.**
 
